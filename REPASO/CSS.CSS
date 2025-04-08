@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(0, 255, 98);
+}
+nav{
+    background-color: rgb(201, 34, 151);
+    padding: 6px;
+    background:forestgren;
+    color: aqua;
+    width: 700px;PX ;
+   height: 30px;
+   margin: auto;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+}
+.gato{
+    color: peru;
+    
+}
+.purple{
+    color: rgb(255, 0, 64);
+}
+h2{
+    color: blue;
+}
+
+.monsieur-la-doulaise-regular {
+    font-family: "Monsieur La Doulaise", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
